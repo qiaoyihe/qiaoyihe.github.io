@@ -1,0 +1,102 @@
+.content .left .page-item {
+    display: block;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+
+    h2 {
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .page-content {
+        // padding: 0 20px;
+
+        .classtest-link,
+        .categories-a {
+            display: inline-block;
+            margin: 10px 15px;
+        }
+
+        .link-list-item {
+            width: 100%;
+            padding: 20px 0;
+            // display: flex;
+            // justify-content: space-between;
+            margin: 15px 0;
+
+            a {
+                display: inline-block;
+                width: 42%;
+                height: 70px;
+                overflow: hidden;
+                padding: 5px 0;
+
+                .link-item-icon {
+                    float: left;
+                    margin-right: 20px;
+
+                    img {
+                        display: inline-block;
+                        width: 60px;
+                        height: 60px;
+                        border-radius: 50%;
+                    }
+
+                }
+
+                &:nth-child(2n) {
+                    margin-left: 83px;
+                    // background-color: pink;
+                }
+
+                &:hover div {
+                    animation: link-item 1s forwards;
+                }
+
+                &:hover {
+                    background-color: rgba(73, 177, 245, .2);
+
+                }
+            }
+
+        }
+    }
+}
+
+.photo {
+    .page-item {
+        p {
+            padding: 10px;
+        }
+
+        img {
+            margin-bottom: 10px;
+            display: inline-block;
+            width: 48%;
+
+            &:nth-child(2n+1) {
+                float: right;
+            }
+        }
+    }
+}
+
+@keyframes link-item {
+    to {
+        transform: translate(-60px)
+    }
+}
+
+@media (max-width:660px) {
+    .link-content {
+        hr {
+            width: 100%;
+        }
+
+        .code-toolbar {
+            width: (592 / 7vw);
+        }
+    }
+}

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>乔一禾</title>
+  <icon>http://localhost:4000/icon.png</icon>
+  <subtitle>一个记录学习笔记的地方</subtitle>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  
+  <link href="http://localhost:4000/"/>
+  <updated>2023-03-01T15:55:12.000Z</updated>
+  <id>http://localhost:4000/</id>
+  
+  <author>
+    <name>乔一禾</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Star</title>
+    <link href="http://localhost:4000/posts/69e9f52a/"/>
+    <id>http://localhost:4000/posts/69e9f52a/</id>
+    <published>2023-03-01T15:12:42.000Z</published>
+    <updated>2023-03-01T15:55:12.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;搜索&quot;&gt;&lt;a href=&quot;#搜索&quot; class=&quot;headerlink&quot; title=&quot;搜索&quot;&gt;&lt;/a&gt;搜索&lt;/h1&gt;&lt;h2 id=&quot;本地搜索插件&quot;&gt;&lt;a href=&quot;#本地搜索插件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Star" scheme="http://localhost:4000/categories/Star/"/>
+    
+    <category term="Hexo" scheme="http://localhost:4000/categories/Star/Hexo/"/>
+    
+    <category term="主题" scheme="http://localhost:4000/categories/Star/Hexo/%E4%B8%BB%E9%A2%98/"/>
+    
+    
+    <category term="Star" scheme="http://localhost:4000/tags/Star/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Web记录</title>
+    <link href="http://localhost:4000/posts/224d98f5/"/>
+    <id>http://localhost:4000/posts/224d98f5/</id>
+    <published>2023-01-08T10:00:35.000Z</published>
+    <updated>2023-01-08T12:29:52.000Z</updated>
+    
+    
+    <summary type="html">一次记录</summary>
+    
+    
+    
+    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="HTML" scheme="http://localhost:4000/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java入门阶级,每个 Java 初学者都应该收藏</title>
+    <link href="http://localhost:4000/posts/53415/"/>
+    <id>http://localhost:4000/posts/53415/</id>
+    <published>2020-07-13T13:02:27.000Z</published>
+    <updated>2023-03-01T15:27:08.000Z</updated>
+    
+    
+    <summary type="html">Java 基础和 Java 面向对象编程</summary>
+    
+    
+    
+    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    
+    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《解忧杂货店》读后感</title>
+    <link href="http://localhost:4000/posts/5700/"/>
+    <id>http://localhost:4000/posts/5700/</id>
+    <published>2020-06-24T09:38:54.000Z</published>
+    <updated>2023-01-10T09:44:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介：&quot;&gt;&lt;a href=&quot;#简介：&quot; class=&quot;headerlink&quot; title=&quot;简介：&quot;&gt;&lt;/a&gt;简介：&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://localhost:4000/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="书籍" scheme="http://localhost:4000/tags/%E4%B9%A6%E7%B1%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java循环</title>
+    <link href="http://localhost:4000/posts/55803/"/>
+    <id>http://localhost:4000/posts/55803/</id>
+    <published>2020-06-23T11:45:34.000Z</published>
+    <updated>2023-03-01T15:11:14.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;循环的定义：&quot;&gt;&lt;a href=&quot;#循环的定义：&quot; class=&quot;headerlink&quot; title=&quot;循环的定义：&quot;&gt;&lt;/a&gt;循环的定义：&lt;/h1&gt;&lt;p&gt;利用计算机来执行多次重复的操作&lt;/p&gt;
+&lt;h1 id=&quot;循环的分类：&quot;&gt;&lt;a href=&quot;#循环的分类：&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    
+    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java equals和==的区别</title>
+    <link href="http://localhost:4000/posts/65180/"/>
+    <id>http://localhost:4000/posts/65180/</id>
+    <published>2020-06-16T10:01:58.000Z</published>
+    <updated>2023-03-01T15:11:26.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;x3D-x3D&quot;&gt;&lt;a href=&quot;#x3D-x3D&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    
+    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你想清楚了吗</title>
+    <link href="http://localhost:4000/posts/39064/"/>
+    <id>http://localhost:4000/posts/39064/</id>
+    <published>2020-06-07T03:13:52.000Z</published>
+    <updated>2022-10-22T04:11:00.000Z</updated>
+    
+    
+    <summary type="html">所以，想清楚了吗？</summary>
+    
+    
+    
+    <category term="文章" scheme="http://localhost:4000/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>进制转换</title>
+    <link href="http://localhost:4000/posts/55041/"/>
+    <id>http://localhost:4000/posts/55041/</id>
+    <published>2020-06-06T13:42:17.000Z</published>
+    <updated>2023-03-01T15:17:52.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;进制区分&quot;&gt;&lt;a href=&quot;#进制区分&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    
+    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="进制" scheme="http://localhost:4000/tags/%E8%BF%9B%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github初始化配置</title>
+    <link href="http://localhost:4000/posts/5440/"/>
+    <id>http://localhost:4000/posts/5440/</id>
+    <published>2020-06-05T12:18:05.000Z</published>
+    <updated>2023-03-01T15:12:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;初次安装-git-配置用户名和邮箱&quot;&gt;&lt;a href=&quot;#初次安装-git-配置用户名和邮箱&quot; class=&quot;headerlink&quot; title=&quot;初次安装 git 配置用户名和邮箱&quot;&gt;&lt;/a&gt;初次安装 git 配置用户名和邮箱&lt;/h3&gt;&lt;pre&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Github" scheme="http://localhost:4000/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost:4000/posts/4a17b156/"/>
+    <id>http://localhost:4000/posts/4a17b156/</id>
+    <published>2020-06-01T14:00:45.000Z</published>
+    <updated>2022-12-29T13:16:34.000Z</updated>
+    
+    
+    <summary type="html">这是一个记录学习笔记和分享奇奇怪怪的地方！</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java数据类型</title>
+    <link href="http://localhost:4000/posts/188331/"/>
+    <id>http://localhost:4000/posts/188331/</id>
+    <published>2020-06-01T14:00:45.000Z</published>
+    <updated>2021-08-01T07:40:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Java是一种强类型语言，每个变量都必须声明其类型。&lt;br&gt;Java语言提供了八种基本类型。六种数字类型（四个整数型，两个浮点型），一种字符类型，还有一种布尔型。&lt;br&gt;Java变量是程序中最基本的存储单元，其要素包括变量名，变量类型和作用域。&lt;br&gt;变量在使用前必须对其声</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    
+    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,17 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /link/
+Allow: /about/
+Allow: /mood/
+Allow: /photo/
+Allow: /posts/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+
+Sitemap: https://www.isqqq.com/sitemap.xml
+Sitemap: https://www.isqqq.com/baidusitemap.xml
