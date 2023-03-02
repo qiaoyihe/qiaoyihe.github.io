@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>乔一禾</title>
-  <icon>http://localhost:4000/icon.png</icon>
+  <icon>https://www.isqqq.com/icon.png</icon>
   <subtitle>一个记录学习笔记的地方</subtitle>
-  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="https://www.isqqq.com/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="https://www.isqqq.com/"/>
   <updated>2023-03-01T15:55:12.000Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>https://www.isqqq.com/</id>
   
   <author>
     <name>乔一禾</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Star</title>
-    <link href="http://localhost:4000/posts/69e9f52a/"/>
-    <id>http://localhost:4000/posts/69e9f52a/</id>
+    <link href="https://www.isqqq.com/posts/69e9f52a/"/>
+    <id>https://www.isqqq.com/posts/69e9f52a/</id>
     <published>2023-03-01T15:12:42.000Z</published>
     <updated>2023-03-01T15:55:12.000Z</updated>
     
@@ -34,21 +34,21 @@
     
     
     
-    <category term="Star" scheme="http://localhost:4000/categories/Star/"/>
+    <category term="Star" scheme="https://www.isqqq.com/categories/Star/"/>
     
-    <category term="Hexo" scheme="http://localhost:4000/categories/Star/Hexo/"/>
+    <category term="Hexo" scheme="https://www.isqqq.com/categories/Star/Hexo/"/>
     
-    <category term="主题" scheme="http://localhost:4000/categories/Star/Hexo/%E4%B8%BB%E9%A2%98/"/>
+    <category term="主题" scheme="https://www.isqqq.com/categories/Star/Hexo/%E4%B8%BB%E9%A2%98/"/>
     
     
-    <category term="Star" scheme="http://localhost:4000/tags/Star/"/>
+    <category term="Star" scheme="https://www.isqqq.com/tags/Star/"/>
     
   </entry>
   
   <entry>
     <title>Web记录</title>
-    <link href="http://localhost:4000/posts/224d98f5/"/>
-    <id>http://localhost:4000/posts/224d98f5/</id>
+    <link href="https://www.isqqq.com/posts/224d98f5/"/>
+    <id>https://www.isqqq.com/posts/224d98f5/</id>
     <published>2023-01-08T10:00:35.000Z</published>
     <updated>2023-01-08T12:29:52.000Z</updated>
     
@@ -57,17 +57,17 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="HTML" scheme="http://localhost:4000/tags/HTML/"/>
+    <category term="HTML" scheme="https://www.isqqq.com/tags/HTML/"/>
     
   </entry>
   
   <entry>
     <title>java入门阶级,每个 Java 初学者都应该收藏</title>
-    <link href="http://localhost:4000/posts/53415/"/>
-    <id>http://localhost:4000/posts/53415/</id>
+    <link href="https://www.isqqq.com/posts/53415/"/>
+    <id>https://www.isqqq.com/posts/53415/</id>
     <published>2020-07-13T13:02:27.000Z</published>
     <updated>2023-03-01T15:27:08.000Z</updated>
     
@@ -76,19 +76,19 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    <category term="java" scheme="https://www.isqqq.com/tags/java/"/>
     
-    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    <category term="基础" scheme="https://www.isqqq.com/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>《解忧杂货店》读后感</title>
-    <link href="http://localhost:4000/posts/5700/"/>
-    <id>http://localhost:4000/posts/5700/</id>
+    <link href="https://www.isqqq.com/posts/5700/"/>
+    <id>https://www.isqqq.com/posts/5700/</id>
     <published>2020-06-24T09:38:54.000Z</published>
     <updated>2023-01-10T09:44:02.000Z</updated>
     
@@ -103,17 +103,17 @@
     
     
     
-    <category term="文章" scheme="http://localhost:4000/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="https://www.isqqq.com/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="书籍" scheme="http://localhost:4000/tags/%E4%B9%A6%E7%B1%8D/"/>
+    <category term="书籍" scheme="https://www.isqqq.com/tags/%E4%B9%A6%E7%B1%8D/"/>
     
   </entry>
   
   <entry>
     <title>java循环</title>
-    <link href="http://localhost:4000/posts/55803/"/>
-    <id>http://localhost:4000/posts/55803/</id>
+    <link href="https://www.isqqq.com/posts/55803/"/>
+    <id>https://www.isqqq.com/posts/55803/</id>
     <published>2020-06-23T11:45:34.000Z</published>
     <updated>2023-03-01T15:11:14.000Z</updated>
     
@@ -129,19 +129,19 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    <category term="java" scheme="https://www.isqqq.com/tags/java/"/>
     
-    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    <category term="基础" scheme="https://www.isqqq.com/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>Java equals和==的区别</title>
-    <link href="http://localhost:4000/posts/65180/"/>
-    <id>http://localhost:4000/posts/65180/</id>
+    <link href="https://www.isqqq.com/posts/65180/"/>
+    <id>https://www.isqqq.com/posts/65180/</id>
     <published>2020-06-16T10:01:58.000Z</published>
     <updated>2023-03-01T15:11:26.000Z</updated>
     
@@ -156,19 +156,19 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    <category term="java" scheme="https://www.isqqq.com/tags/java/"/>
     
-    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    <category term="基础" scheme="https://www.isqqq.com/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>你想清楚了吗</title>
-    <link href="http://localhost:4000/posts/39064/"/>
-    <id>http://localhost:4000/posts/39064/</id>
+    <link href="https://www.isqqq.com/posts/39064/"/>
+    <id>https://www.isqqq.com/posts/39064/</id>
     <published>2020-06-07T03:13:52.000Z</published>
     <updated>2022-10-22T04:11:00.000Z</updated>
     
@@ -177,15 +177,15 @@
     
     
     
-    <category term="文章" scheme="http://localhost:4000/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="https://www.isqqq.com/categories/%E6%96%87%E7%AB%A0/"/>
     
     
   </entry>
   
   <entry>
     <title>进制转换</title>
-    <link href="http://localhost:4000/posts/55041/"/>
-    <id>http://localhost:4000/posts/55041/</id>
+    <link href="https://www.isqqq.com/posts/55041/"/>
+    <id>https://www.isqqq.com/posts/55041/</id>
     <published>2020-06-06T13:42:17.000Z</published>
     <updated>2023-03-01T15:17:52.000Z</updated>
     
@@ -200,21 +200,21 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    <category term="java" scheme="https://www.isqqq.com/tags/java/"/>
     
-    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    <category term="基础" scheme="https://www.isqqq.com/tags/%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="进制" scheme="http://localhost:4000/tags/%E8%BF%9B%E5%88%B6/"/>
+    <category term="进制" scheme="https://www.isqqq.com/tags/%E8%BF%9B%E5%88%B6/"/>
     
   </entry>
   
   <entry>
     <title>Github初始化配置</title>
-    <link href="http://localhost:4000/posts/5440/"/>
-    <id>http://localhost:4000/posts/5440/</id>
+    <link href="https://www.isqqq.com/posts/5440/"/>
+    <id>https://www.isqqq.com/posts/5440/</id>
     <published>2020-06-05T12:18:05.000Z</published>
     <updated>2023-03-01T15:12:04.000Z</updated>
     
@@ -229,17 +229,17 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="Github" scheme="http://localhost:4000/tags/Github/"/>
+    <category term="Github" scheme="https://www.isqqq.com/tags/Github/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://localhost:4000/posts/4a17b156/"/>
-    <id>http://localhost:4000/posts/4a17b156/</id>
+    <link href="https://www.isqqq.com/posts/4a17b156/"/>
+    <id>https://www.isqqq.com/posts/4a17b156/</id>
     <published>2020-06-01T14:00:45.000Z</published>
     <updated>2022-12-29T13:16:34.000Z</updated>
     
@@ -253,8 +253,8 @@
   
   <entry>
     <title>Java数据类型</title>
-    <link href="http://localhost:4000/posts/188331/"/>
-    <id>http://localhost:4000/posts/188331/</id>
+    <link href="https://www.isqqq.com/posts/188331/"/>
+    <id>https://www.isqqq.com/posts/188331/</id>
     <published>2020-06-01T14:00:45.000Z</published>
     <updated>2021-08-01T07:40:34.000Z</updated>
     
@@ -269,12 +269,12 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="java" scheme="http://localhost:4000/tags/java/"/>
+    <category term="java" scheme="https://www.isqqq.com/tags/java/"/>
     
-    <category term="基础" scheme="http://localhost:4000/tags/%E5%9F%BA%E7%A1%80/"/>
+    <category term="基础" scheme="https://www.isqqq.com/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
