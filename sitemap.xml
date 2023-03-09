@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.isqqq.com/404.html</loc>
+    <loc>https://www.isqqq.com/about/index.html</loc>
     
     <lastmod>2023-03-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.isqqq.com/about/index.html</loc>
+    <loc>https://www.isqqq.com/404.html</loc>
     
     <lastmod>2023-03-09</lastmod>
     
@@ -173,13 +173,6 @@
 
   
   <url>
-    <loc>https://www.isqqq.com/tags/Github/</loc>
-    <lastmod>2023-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.isqqq.com/tags/java/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,6 +181,13 @@
   
   <url>
     <loc>https://www.isqqq.com/tags/%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.isqqq.com/tags/Github/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -208,14 +208,14 @@
   </url>
   
   <url>
-    <loc>https://www.isqqq.com/tags/HTML/</loc>
+    <loc>https://www.isqqq.com/tags/Star/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.isqqq.com/tags/Star/</loc>
+    <loc>https://www.isqqq.com/tags/HTML/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
