@@ -6,7 +6,7 @@
   <link href="https://www.isqqq.com/atom.xml" rel="self"/>
   
   <link href="https://www.isqqq.com/"/>
-  <updated>2023-03-09T13:19:29.638Z</updated>
+  <updated>2023-03-27T13:56:41.304Z</updated>
   <id>https://www.isqqq.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记一次webpack</title>
+    <link href="https://www.isqqq.com/posts/19b17f74/"/>
+    <id>https://www.isqqq.com/posts/19b17f74/</id>
+    <published>2023-03-27T12:04:10.684Z</published>
+    <updated>2023-03-27T13:56:41.304Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-webpack概述&quot;&gt;&lt;a href=&quot;#1-webpack概述&quot; class=&quot;headerlink&quot; title=&quot;1. webpack概述&quot;&gt;&lt;/a&gt;1. webpack概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;webpack 是一个基于</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://www.isqqq.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Web" scheme="https://www.isqqq.com/tags/Web/"/>
+    
+    <category term="webpack" scheme="https://www.isqqq.com/tags/webpack/"/>
+    
+  </entry>
   
   <entry>
     <title>Star</title>
@@ -50,7 +78,7 @@
     <link href="https://www.isqqq.com/posts/224d98f5/"/>
     <id>https://www.isqqq.com/posts/224d98f5/</id>
     <published>2023-01-08T10:00:35.000Z</published>
-    <updated>2023-01-08T12:29:52.000Z</updated>
+    <updated>2023-03-27T13:55:38.201Z</updated>
     
     
     <summary type="html">一次记录</summary>
