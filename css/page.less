@@ -31,7 +31,7 @@
                 width: 42%;
                 height: 70px;
                 overflow: hidden;
-                padding: 5px 0;
+                padding: 5px 8px;
 
                 .link-item-icon {
                     float: left;
@@ -42,6 +42,7 @@
                         width: 60px;
                         height: 60px;
                         border-radius: 50%;
+                        transition: all 1s;
                     }
 
                 }
@@ -51,8 +52,8 @@
                     // background-color: pink;
                 }
 
-                &:hover div {
-                    animation: link-item 1s forwards;
+                &:hover .link-item-icon img {
+                    transform: rotate(360deg);
                 }
 
                 &:hover {
@@ -83,11 +84,6 @@
     }
 }
 
-@keyframes link-item {
-    to {
-        transform: translate(-60px)
-    }
-}
 
 @media (max-width:660px) {
     .link-content {
