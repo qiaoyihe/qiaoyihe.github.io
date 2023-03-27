@@ -182,13 +182,6 @@
 
   
   <url>
-    <loc>https://www.isqqq.com/tags/Github/</loc>
-    <lastmod>2023-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.isqqq.com/tags/java/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -197,6 +190,13 @@
   
   <url>
     <loc>https://www.isqqq.com/tags/%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2023-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.isqqq.com/tags/Github/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
