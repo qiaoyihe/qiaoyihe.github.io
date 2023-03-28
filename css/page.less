@@ -69,18 +69,47 @@
 .photo {
     .page-item {
         p {
-            padding: 10px;
-        }
+            padding-right: 2px;
 
-        img {
-            margin-bottom: 10px;
-            display: inline-block;
-            width: 48%;
+            img {
+                width: 49.5%;
+                float: left;
+                margin: 2px 0;
 
-            &:nth-child(2n) {
-                float: right;
+                &:nth-child(2n) {
+                    float: right;
+                    margin-left: 5px;
+                }
             }
         }
+
+        .photo-img {
+            display: flex;
+            flex-wrap: wrap;
+            width: 100%;
+            justify-content: flex-start;
+
+
+            img {
+                display: block;
+                margin: 2px 0;
+                width: 49.5%;
+
+                &:nth-child(2n) {
+                    margin-left: 5px;
+                }
+            }
+        }
+
+        // img {
+        //     margin-bottom: 10px;
+        //     display: inline-block;
+        //     width: 48%;
+
+        //     &:nth-child(2n) {
+        //         float: right;
+        //     }
+        // }
     }
 }
 
