@@ -68,48 +68,114 @@
 
 .photo {
     .page-item {
-        p {
-            padding-right: 2px;
-
-            img {
-                width: 49.5%;
-                float: left;
-                margin: 2px 0;
-
-                &:nth-child(2n) {
-                    float: right;
-                    margin-left: 5px;
-                }
-            }
-        }
 
         .photo-img {
+            img {
+                cursor: pointer;
+            }
+
+            position: relative;
+            color: #fff;
             display: flex;
             flex-wrap: wrap;
             width: 100%;
             justify-content: flex-start;
 
+            .photo-w {
+                position: relative;
+                color: #fff;
+                display: flex;
+                flex-wrap: wrap;
+                width: 49%;
+                justify-content: flex-start;
+                margin-left: 5px;
 
-            img {
-                display: block;
-                margin: 2px 0;
-                width: 49.5%;
+                .photo-q {
+                    display: block;
+                    position: relative;
+                    width: 100%;
+                    border-radius: 10px !important;
+                    overflow: hidden;
+                    margin-top: 5px;
 
-                &:nth-child(2n) {
-                    margin-left: 5px;
+                    &:hover .photo-t span {
+                        opacity: 1;
+                        right: -40px;
+                    }
+
+                    &:hover img {
+                        transform: scale(1.2);
+                    }
+
+                    &:nth-child(2n) {
+                        margin-left: 5px;
+                    }
+
+                    img {
+                        border: 1px solid #fff;
+                        border-radius: 10px !important;
+                        width: 100%;
+                        transition: all 1s;
+                    }
+
+                    &>.photo-t {
+                        position: absolute;
+                        left: 10%;
+                        top: 10%;
+                        color: #ffffff;
+                        z-index: 999;
+
+
+                        &>span {
+                            opacity: 0;
+                            position: absolute;
+                            right: -400%;
+                            top: 52px;
+                            transition: all 1s;
+                        }
+                    }
+
+                    &>.photo-p-m {
+                        position: absolute;
+                        border-radius: 10px !important;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        background: rgba(0, 0, 0, .3);
+                        z-index: 998;
+                        cursor: pointer;
+                    }
                 }
+
+
+                .photo-contImg {
+                    display: none !important;
+                    // display: block;
+                    position: relative;
+                    color: #fff;
+                    display: flex;
+                    flex-wrap: wrap;
+                    width: 100%;
+                    justify-content: flex-start;
+
+                    img {
+                        width: 49%;
+                        margin-bottom: 5px;
+                    }
+                }
+
+                .photo-contImgFlag {
+                    display: block !important;
+                }
+
+            }
+
+            &>.photo-contImgClose {
+                display: none !important;
             }
         }
 
-        // img {
-        //     margin-bottom: 10px;
-        //     display: inline-block;
-        //     width: 48%;
-
-        //     &:nth-child(2n) {
-        //         float: right;
-        //     }
-        // }
     }
 }
 
