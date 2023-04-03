@@ -60,13 +60,22 @@
             }
 
             .post-copyright {
-                margin: 30px 0 20px;
+                margin: 30px 0 15px;
                 padding: 10px 10px;
-                border: 1px solid pink;
+                border: 1px solid #e0e0e0;
                 font-size: 14px;
+                border-radius: 10px;
+
+                &:hover {
+                    border: 1px solid rgba(255, 192, 203);
+                }
 
                 .post-copyright__type {
                     margin: 2px 0;
+
+                    a {
+                        word-wrap: break-word;
+                    }
                 }
 
                 .post-copyright-meta {
@@ -82,7 +91,7 @@
 
             .pagination-post {
                 position: relative;
-                margin-top: 20px;
+                margin-top: 15px;
                 width: 100%;
                 height: 150px;
                 overflow: hidden;
