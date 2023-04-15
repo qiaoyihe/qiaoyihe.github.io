@@ -69,14 +69,16 @@ header {
                     }
                 }
 
+                .header-nav-flag {
+                    display: block !important;
+                }
+
                 .header-nav-item-child {
                     display: none;
                     position: absolute;
                     right: 0;
-                    margin-top: 2px;
                     width: 100%;
                     border-radius: 5px;
-                    // background-color: #00c4b6;
                     background-color: #fff;
                     border: 1px solid #e0e0e0;
                     color: #4c4948;
@@ -289,11 +291,9 @@ header {
             border: 1px solid #e0e0e0;
             transition: all .4s;
 
-
             &:hover {
                 box-shadow: 0 1px 3px 1px rgba(0, 0, 0, .14);
                 transform: translateY(-4px);
-
             }
 
             .pic {
@@ -327,7 +327,6 @@ header {
                 }
 
                 .post-content {
-                    // height: 38px;
                     font-size: 14px;
                 }
             }
@@ -347,6 +346,7 @@ header {
             margin: 15px 0;
             line-height: 40px;
             transition: all .4s;
+            width: 100%;
 
             &:hover {
                 transform: translateY(-4px);
@@ -357,11 +357,9 @@ header {
                 width: 100%;
             }
 
-            .extend,
-            span {
+            .extend {
                 display: inline-block;
-                margin: 0 20px;
-                width: 30px;
+                width: 47%;
                 height: 30px;
                 text-align: center;
                 line-height: 30px;
