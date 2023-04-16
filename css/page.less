@@ -135,117 +135,59 @@
 
 .photo {
     .page-item {
-
         .photo-img {
-            img {
-                cursor: pointer;
-            }
-
             position: relative;
-            color: #fff;
-            display: flex;
-            flex-wrap: wrap;
             width: 100%;
-            justify-content: flex-start;
 
-            .photo-w {
-                position: relative;
-                color: #fff;
-                display: flex;
-                flex-wrap: wrap;
-                width: 49%;
-                justify-content: flex-start;
-                margin-left: 5px;
+            .photos {
+                width: 32%;
+                position: absolute;
+                overflow: hidden;
 
-                .photo-q {
-                    display: block;
-                    position: relative;
-                    width: 100%;
-                    border-radius: 10px !important;
-                    overflow: hidden;
-                    margin-top: 5px;
-
-                    &:hover .photo-t span {
-                        opacity: 1;
-                        right: -40px;
-                    }
-
-                    &:hover img {
-                        transform: scale(1.2);
-                    }
-
-                    &:nth-child(2n) {
-                        margin-left: 5px;
-                    }
-
-                    img {
-                        border: 1px solid #fff;
-                        border-radius: 10px !important;
-                        width: 100%;
-                        transition: all 1s;
-                    }
-
-                    &>.photo-t {
-                        position: absolute;
-                        left: 10%;
-                        top: 10%;
-                        color: #ffffff;
-                        z-index: 998;
-
-
-                        &>span {
-                            opacity: 0;
-                            position: absolute;
-                            right: -400%;
-                            top: 52px;
-                            transition: all 1s;
-                        }
-                    }
-
-                    &>.photo-p-m {
-                        position: absolute;
-                        border-radius: 10px !important;
-                        top: 0;
-                        left: 0;
-                        width: 100%;
-                        height: 100%;
-                        background: rgba(0, 0, 0, .3);
-                        z-index: 997;
-                        cursor: pointer;
-                    }
+                &:hover img {
+                    transform: scale(1.2);
                 }
 
+                &:hover b {
+                    opacity: 1;
+                }
 
-                .photo-contImg {
-                    display: none !important;
-                    // display: block;
-                    position: relative;
+                &:hover span {
+                    opacity: 1;
+                }
+
+                img {
+                    display: inline-block;
+                    width: 100%;
+                    cursor: pointer;
+                    transition: all .8s;
+                }
+
+                b,
+                span {
+                    padding: 0 10px 6px;
+                    font-size: 14px;
+                    left: 0;
                     color: #fff;
-                    display: flex;
-                    flex-wrap: wrap;
-                    width: 100%;
-                    justify-content: flex-start;
-
-                    img {
-                        width: 49%;
-                        margin-bottom: 5px;
-                    }
+                    opacity: 0;
+                    transition: all .8s;
                 }
 
-                .photo-contImgFlag {
-                    display: block !important;
+                b {
+                    position: absolute;
+                    top: 0;
+                    font-weight: 400;
                 }
 
-            }
+                span {
+                    position: absolute;
+                    bottom: 0;
 
-            &>.photo-contImgClose {
-                display: none !important;
+                }
             }
         }
-
     }
 }
-
 
 @media (max-width:660px) {
     .link-content {
