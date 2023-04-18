@@ -1,0 +1,66 @@
+// 加载动画
+// 使用样式
+/* <div class="animation-loading">
+<span class="loading"></span>
+<span>加载中</span>
+</div> */
+.animation-loading {
+    position: relative;
+    height: 260px;
+    width: 100%;
+    text-align: center;
+
+    .loading,
+    span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .loading {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border-top: 10px solid palegreen;
+        border-right: 10px solid rgb(96, 162, 16);
+        border-bottom: 10px solid rgb(216, 213, 14);
+        border-left: 10px solid rgb(10, 86, 168);
+        animation: loading 3s linear infinite;
+    }
+
+    span {
+        display: flex;
+        overflow: hidden;
+        text-align: center;
+        height: 1em;
+        line-height: 1;
+
+        &::after {
+            content: '...\A..\A.';
+            white-space: pre-wrap;
+            animation: dot 3s infinite step-end;
+        }
+    }
+
+    @keyframes loading {
+        0% {
+            transform: translate(-50%, -50%)rotate(0);
+        }
+
+        100% {
+            transform: translate(-50%, -50%)rotate(360deg);
+
+        }
+    }
+
+    @keyframes dot {
+        33% {
+            transform: translateY(-2em);
+        }
+
+        66% {
+            transform: translateY(-1em);
+        }
+    }
+}
