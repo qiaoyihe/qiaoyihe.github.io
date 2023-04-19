@@ -527,19 +527,56 @@ header {
     height: 100%;
     background-image: linear-gradient(transparent);
     // background-color: pink;
-    z-index: 998;
+    z-index: 999;
+
 }
+
 
 .bigDivs {
     position: fixed;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    z-index: 999;
+    z-index: 1001;
 }
 
 .bigDivks {
     animation: line .6s linear;
+}
+
+.bigMask {
+    animation: bigMask .6s forwards linear;
+}
+
+.imgsNum {
+    position: absolute;
+    left: 40px;
+    top: 30px;
+    // background-color: #00c4b6;
+    color: #fff;
+    font-size: 20px;
+}
+
+@keyframes bigMask {
+    10% {
+        background-color: rgba(0, 0, 0, 0);
+    }
+
+    25% {
+        background-color: rgba(0, 0, 0, .25);
+    }
+
+    50% {
+        background-color: rgba(0, 0, 0, .5);
+    }
+
+    75% {
+        background-color: rgba(0, 0, 0, .75);
+    }
+
+    100% {
+        background-color: rgba(0, 0, 0, .9);
+    }
 }
 
 @keyframes line {
