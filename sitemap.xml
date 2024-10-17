@@ -224,6 +224,13 @@
   </url>
   
   <url>
+    <loc>https://www.isqqq.com/tags/HTML/</loc>
+    <lastmod>2024-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.isqqq.com/tags/Web/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,13 +239,6 @@
   
   <url>
     <loc>https://www.isqqq.com/tags/webpack/</loc>
-    <lastmod>2024-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.isqqq.com/tags/HTML/</loc>
     <lastmod>2024-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
